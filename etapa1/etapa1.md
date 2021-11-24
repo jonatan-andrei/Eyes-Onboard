@@ -7,7 +7,7 @@
 - 7 Jumpers macho-macho.
 
 ### Projeto no TinkerCad:
-<iframe width="725" height="453" src="https://www.tinkercad.com/embed/hTGyLWGa3Qd?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+[<img src="etapa1-tinkercad.png">](https://www.tinkercad.com/embed/hTGyLWGa3Qd?editbtn=1)
 
 ### Código:
 ```
