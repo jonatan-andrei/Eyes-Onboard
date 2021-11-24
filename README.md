@@ -24,3 +24,8 @@ Em construção
 
 ### Itens comprados:
 Em construção
+
+### Passo a passo:
+
+[Etapa 1](etapa1.md)
+
