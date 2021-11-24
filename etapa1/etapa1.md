@@ -46,3 +46,4 @@ void loop()
 - Carregue o programa para o Arduino e pronto, seu protótipo deverá funcionar igual ao da foto abaixo!
 
 ### Foto do protótipo após essa etapa:
+[<img src="etapa1-arduino.jpg">]
