@@ -27,5 +27,5 @@ Em construção
 
 ### Passo a passo:
 
-[Etapa 1](etapa1.md)
+[Etapa 1](etapa1/etapa1.md)
 
