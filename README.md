@@ -18,6 +18,7 @@ Este é apenas um protótipo, NÃO DEVE ser utilizado como um equipamento de seg
 
 ### Passo a passo:
 
-[Etapa 1](etapa1/etapa1.md)
-[Etapa 2](etapa2/etapa2.md)
+- [Etapa 1](etapa1/etapa1.md)
+
+- [Etapa 2](etapa2/etapa2.md)
 
