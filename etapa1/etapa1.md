@@ -1,5 +1,6 @@
 ### Materiais necessários:
 - 1 Arduino Uno;
+- 1 cabo USB;
 - 1 Led Vermelho;
 - 1 Led Amarelo;
 - 1 Led Verde;
@@ -14,7 +15,7 @@
 // C++ code
 //
 #define ledVermelho 13
-#define ledAmarelo 11
+#define ledAmarelo 10
 #define ledVerde 9
 void setup()
 {

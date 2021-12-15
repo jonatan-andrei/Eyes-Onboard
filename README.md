@@ -16,16 +16,8 @@ Este é apenas um protótipo, NÃO DEVE ser utilizado como um equipamento de seg
 - Etapa 2: Destinada a implementação do sensor de presença para identificar presença ou não do motorista e a presença ou não da criança. Também será implementado o alarme sonoro.
 - Etapa 3: Destinada a implementação da comunicação entre os componentes para que o dispositivo seja notificado caso o motorista esteja presente. 
 
-### Materiais necessários:
-Em construção
-
-### Inspirações:
-Em construção
-
-### Itens comprados:
-Em construção
-
 ### Passo a passo:
 
 [Etapa 1](etapa1/etapa1.md)
+[Etapa 2](etapa2/etapa2.md)
 
