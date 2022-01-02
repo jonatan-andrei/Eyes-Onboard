@@ -13,7 +13,7 @@
 - 20 Jumpers macho-macho.
 
 ### Projeto no TinkerCad da versão 2:
-[<img src="etapa3-tinkercad.png">](https://www.tinkercad.com/embed/87dhyKf8pBS)
+[<img src="../etapa2/etapa2-tinkercad.png">](https://www.tinkercad.com/embed/87dhyKf8pBS)
 O TinkerCad não tem a opção de módulo bluetooth, a funcionalidade adicionada nesta versão. Para instruções específicas sobre o módulo, [consulte este link](https://mundoprojetado.com.br/modulo-bluetooth-comunicando-c-arduino-parte-1/). 
 
 ### Código:
